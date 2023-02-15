@@ -9,7 +9,7 @@ OSINTEL OS is an Pre-configured Virtual-machine designed for OSINT (Open Source 
 - Customizable settings and configurations to meet your specific needs.
 - Fully Customize Firefox browser with usefull bookmarks.
 - It have a Log remover tool called **Removelog** that help to remove all logs of your machine. 
-- After you install the VM navigate to **/home** directory and check the ``osintel.pdf`` for more info about the tools.  
+- After you install the VM navigate to **/home** directory and check the `osintel.pdf` for more info about the tools.  
 
 ## Getting Started
 
@@ -42,4 +42,4 @@ OSINTEL OS is released under the MIT license. You are free to use, modify, and d
 
 ## Contact
 
-If you have any questions or comments about OSINT OS, please contact us at [swastiktripathy403@gmail.com](mailto:swastiktripathy403@gmail.com).
+If you have any questions or comments about OSINTEL OS, please contact us at [swastiktripathy403@gmail.com](mailto:swastiktripathy403@gmail.com).
