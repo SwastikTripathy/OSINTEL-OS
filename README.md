@@ -18,6 +18,7 @@ To get started with OSINTEL OS, you will need to download the **OVA** or **OVF**
 - Both OVF and OVA import methods are same check this [link](https://youtu.be/Lr-4PDHq__I) for more info about importing.
 - [OSINTEL OVF Image Link](https://drive.google.com/file/d/1iW-B_uPWjT8ZD7fPGGnLAAeEusY_s5Yc/view?usp=share_link)
 - [OSINTEL OVA Image Link](https://drive.google.com/file/d/1oSb3v0XEykfw6RtT1BubxGS-8VNc6u_3/view?usp=share_link)
+- Default login credential ``osintel:osintel``
     
 
 ## Tools
