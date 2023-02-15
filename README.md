@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="460" height="300" src="https://i.postimg.cc/445MS0pD/OSINTEL.png">
-</p>
-
-
 # OSINTEL OS
 
 OSINTEL OS is an Pre-configured Virtual-machine designed for OSINT (Open Source Intelligence) professionals and enthusiasts. It is a Debian-based operating system that comes with pre-installed tools and software for conducting OSINT investigations.
