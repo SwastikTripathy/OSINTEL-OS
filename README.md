@@ -34,7 +34,7 @@ OSINTEL OS comes with a wide range of tools & browser extentions pre-installed, 
 
 ## Contributing
 
-We welcome contributions from the OSINT community. If you have ideas for new features or tools, or if you encounter any issues with the operating system, please submit an issue on our [GitHub page](https://github.com/osintos/osintos).
+We welcome contributions from the OSINT community. If you have ideas for new features or tools, or if you encounter any issues with the operating system, please submit an issue on our [GitHub page](https://github.com/SwastikTripathy/OSINTEL-OS/issues).
 
 ## License
 
