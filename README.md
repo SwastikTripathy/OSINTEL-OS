@@ -38,7 +38,7 @@ We welcome contributions from the OSINT community. If you have ideas for new fea
 
 ## License
 
-OSINT OS is released under the MIT license. You are free to use, modify, and distribute the operating system as you see fit. Please see the `LICENSE` file for more details.
+OSINTEL OS is released under the MIT license. You are free to use, modify, and distribute the operating system as you see fit. Please see the `LICENSE` file for more details.
 
 ## Contact
 
