@@ -16,8 +16,8 @@ OSINTEL OS is an Pre-configured Virtual-machine designed for OSINT (Open Source 
 To get started with OSINTEL OS, you will need to download the **OVA** or **OVF** file from our link given below. You can then boot your vm from the OVA or OVF image using Virtual machine or Vmware Workstation. 
 
 - Both OVF and OVA import methods are same check this [link](https://youtu.be/Lr-4PDHq__I) for more info about importing.
-- [OSINTEL OVF Image Link](bit.ly/osintel-ovf)
-- [OSINTEL OVA Image Link](bit.ly/osintel-ova)
+- [OSINTEL OVF Image Link](https://bit.ly/osintel-ovf)
+- [OSINTEL OVA Image Link](https://bit.ly/osintel-ova)
 - Default login credential ``osintel:osintel``
     
 
