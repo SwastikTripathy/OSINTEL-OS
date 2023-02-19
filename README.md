@@ -19,7 +19,7 @@ To get started with OSINTEL OS, you will need to download the **OVA** or **OVF**
 - [OSINTEL OVF Image Link](https://bit.ly/osintel-ovf)
 - [OSINTEL OVA Image Link](https://bit.ly/osintel-ova)
 - Default login credential ``osintel:osintel``
-- Video Tutorial https://youtu.be/tLYKpZOMU5s
+- Video Tutorial <iframe width="560" height="315" src="https://www.youtube.com/embed/tLYKpZOMU5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
 
 ## Tools
